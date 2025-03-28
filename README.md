@@ -1,4 +1,3 @@
-# pc
+# Student-Teacher-Dashboard
 
-project crud
-not complete
+React, MySql
